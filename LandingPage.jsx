@@ -1,4 +1,4 @@
-import { Button } from "./components/ui/button";
+import { Button } from "./components/ui/button.jsx";
 import { Card, CardContent } from "./components/ui/card";
 import { Check, Home, Mail, Lightbulb } from "lucide-react";
 
